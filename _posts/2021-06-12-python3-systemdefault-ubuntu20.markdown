@@ -7,6 +7,7 @@ img: post/ubuntu-python3.jpg
 fig-caption: Ubuntu use python3 as default
 tags: [Ubuntu, Python3]
 categories: ubuntu python3
+comments: true
 ---
 TLDR;
 ```shell

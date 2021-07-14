@@ -3,6 +3,7 @@ layout: post
 title:  "FreightForward Software For Developers"
 date:   2021-01-01 09:24:13 +0600
 categories: freightforward
+comments: true
 ---
 **We released the freight document generator with GPL-2.0 license.**
 <br>

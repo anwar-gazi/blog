@@ -3,6 +3,7 @@ layout: post
 title:  "Introducing Freight Document Generation Software"
 date:   2021-07-02 09:24:13 +0600
 categories: Freightforward
+comments: true
 ---
 Freight Forwarding process involves multitude of document writing operations.
 Here we introduce auto generation system for ocean freight and air freight.

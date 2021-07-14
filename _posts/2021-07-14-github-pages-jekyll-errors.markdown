@@ -1,8 +1,9 @@
 ---
-layout: post 
+layout: post
 title:  "Jekyll based github pages common errors and troubleshoot"
-date:   2021-07-14 08:00:00 +0600 
+date:   2021-07-14 08:00:00 +0600
 categories: github-pages jekyll
+comments: true
 ---
 We installed jekyll with `just-the-docs` theme for our [FreightForward Doc Software][ff_soft_code]
 documentation [site][ff_doc_ghpages].

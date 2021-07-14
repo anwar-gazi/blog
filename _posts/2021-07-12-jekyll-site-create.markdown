@@ -3,12 +3,13 @@ layout: post
 title:  "Create a site with Jekyll, the static site generator"
 date:   2021-01-01 09:24:13 +0600
 categories: freightforward
+comments: true
 ---
 Assuming you installed Ruby and Bundler first. Check the [prerequisite section here if you haven't already](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
 <br>
 <br>
-Go to the directory you want to keep the site in. 
-For example, I will be putting in `docs`. 
+Go to the directory you want to keep the site in.
+For example, I will be putting in `docs`.
 Now create jekyll site with `jekyll new . `
 This created a jekyll site in the current directory.
 

@@ -3,12 +3,13 @@ layout: post
 title:  "Create a documentation site with github-pages, jekyll and just-the-docs theme"
 date:   2021-07-14 10:00:00 +0600
 categories: github-pages jekyll
+comments: true
 ---
 Assuming you installed Ruby and Bundler first. Check the [prerequisite section here if you haven't already](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
 <br>
 <br>
-Go to the directory you want to keep the site in. 
-For example, I will be putting in `docs`. 
+Go to the directory you want to keep the site in.
+For example, I will be putting in `docs`.
 Now create jekyll site with `jekyll new . `
 This created a jekyll site in the current directory.
 
