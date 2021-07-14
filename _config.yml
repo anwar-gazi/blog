@@ -2,7 +2,7 @@ remote_theme: artemsheludko/flexible-jekyll
 host: 0.0.0.0
 title: Minhajul Anwar's Blog
 description: > # this means to ignore newlines until "baseurl:"
-  I write on coding, labguages, frameworks, tools, news, reviews, documentation, tutorials, projects and misc activity etc.
+  I write on coding, languages, frameworks, news, reviews, documentation, tutorials, projects, thoughts and activity etc.
 permalink: ':title/'
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
