@@ -4,7 +4,7 @@ title: Minhajul Anwar's Blog
 description: > # this means to ignore newlines until "baseurl:"
   I write on coding, labguages, frameworks, tools, news, reviews, documentation, tutorials, projects and misc activity etc.
 permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: intent/follow?screen_name=MinhajulAnwar #if your site has a twitter account, enter it here
 
