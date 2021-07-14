@@ -23,6 +23,7 @@ discus-identifier:  # add your discus identifier
 
 # Tracker
 analytics: G-2F2C14LVYS # Google Analytics
+gtag-measurement-id: G-PQ0HYTFXFM # Google Analytics property Web Stream MEASUREMENT ID
 
 # Build Settings
 markdown: kramdown
