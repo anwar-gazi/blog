@@ -19,10 +19,10 @@ social-linkedin: minhajulanwar/# add your Linkedin handle
 social-email: contact@resgef.com # add your Email address
 
 # Disqus
-discus-identifier:  # add your discus identifier
+discus-identifier:  https://minhajme-github-io-blog # add your discus identifier
 
 # Tracker
-analytics: G-2F2C14LVYS # Google Analytics
+analytics:  # Google Analytics
 gtag-measurement-id: G-PQ0HYTFXFM # Google Analytics property Web Stream MEASUREMENT ID
 
 # Build Settings
