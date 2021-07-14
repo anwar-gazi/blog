@@ -1,3 +1,4 @@
+remote_theme: artemsheludko/flexible-jekyll
 host: 0.0.0.0
 title: Minhajul Anwar's Blog
 description: > # this means to ignore newlines until "baseurl:"
