@@ -2,7 +2,7 @@
 layout: post
 title:  "Git Merge Your Repo With Your GitHub Repo(both started seperately)"
 date:   2021-08-01 13:00:00 +0600
-img: post/django-custom-user-model.png
+img: post/git-pull-allow-unrelated-histories.png
 categories: git tutorials
 comments: true
 ---
