@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Some observations after using Ravenol 10W40 Synth-Ester and Synth-PAO"
-date:   2023-04-19 00:00:00 +0600
+date:   2023-04-21 00:00:00 +0600
 img: post/ravenol1040pao-ester.png
 categories: biking, kpr
 comments: true

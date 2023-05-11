@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Running Free Download Manager in Fedora 37"
-date:   2023-04-19 00:00:00 +0600
+date:   2023-04-20 00:00:00 +0600
 img: post/fdm-logo.png
 categories: Linux
 comments: true

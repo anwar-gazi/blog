@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Highway or roads devoid of souls"
-date:   2023-03-19 23:00:00 +0600
+date:   2023-03-18 23:00:00 +0600
 img: post/soulful-roads.jpg
 categories: travel
 comments: true
