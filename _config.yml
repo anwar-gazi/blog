@@ -2,7 +2,7 @@ remote_theme: artemsheludko/flexible-jekyll
 host: 0.0.0.0
 title: Minhajul Anwar's Blog
 description: > # this means to ignore newlines until "baseurl:"
-  I write on coding, languages, frameworks, news, reviews, documentation, tutorials, projects, thoughts and activity etc.
+  I write on programming languages, frameworks, mechanical engineering and travelling.
 permalink: ':title/'
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -12,11 +12,11 @@ site-twitter: intent/follow?screen_name=MinhajulAnwar #if your site has a twitte
 author: Minhajul Anwar # add your name
 author-img: minhajul-anwar.jpg # add your photo
 about-author: Software Engineer. # add description
-social-twitter: intent/follow?screen_name=MinhajulAnwar # add your Twitter handle
+social-twitter: anwar_mebd # add your Twitter handle
 social-facebook: minhajul.anwar.me # add your Facebook handle
-social-github: minhajme # add your Github handle
-social-linkedin: minhajulanwar/# add your Linkedin handle
-social-email: contact@resgef.com # add your Email address
+social-github: anwar-gazi # add your Github handle
+social-linkedin: anwargazi # add your Linkedin handle
+social-email: minhaj.me.bd@gmail.com # add your Email address
 
 # Disqus
 discus-identifier:  https://minhajme-github-io-blog.zzz # add your discus identifier
