@@ -3,7 +3,7 @@ layout: post
 title:  "Node.js প্রজেক্টে "type": "module" ব্যবহার করলে আসলে কী হয়?"
 date:   2025-09-05 00:00:00 +0600
 img: post/type-module.jpg
-categories: online newspaper
+categories: Newsmil CMS: Online Newspaper
 comments: false
 ---
 

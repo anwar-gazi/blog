@@ -3,7 +3,7 @@ layout: post
 title:  "Javascript singleton constructor: importing module is skipping import cache"
 date:   2025-09-05 00:00:00 +0600
 img: post/singleton-js.jpg
-categories: newsmil
+categories: Newsmil CMS: Online Newspaper
 comments: false
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "অনলাইন নিউজপেপার প্রজেক্টে ডাইনামিক প্লাগিন লোড করা, প্লাগিন রেজিষ্ট্রি ব্যাবহার করে | nextjs+ts+laravel "
 date:   2025-08-27 00:00:00 +0600
 img: post/newspaper-plugins-autoload.jpg
-categories: online newspaper
+categories: Newsmil CMS: Online Newspaper
 comments: false
 ---
 
