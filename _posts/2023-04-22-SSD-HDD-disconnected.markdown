@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Laptop HDD vanished, upon reparing SSD vanished! Lame Bantering"
+title:  "Laptop HDD vanished, upon reparing SSD vanished! Bantering"
 date:   2023-04-22 00:00:00 +0600
 img: post/bag-packed-bike.jpg
 categories: electronics, repair
